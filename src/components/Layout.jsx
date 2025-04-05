@@ -33,7 +33,7 @@ export default function Layout(props) {
         <footer>
             <p><span className="text-gradient">My Coffee</span> was made by Noam971 <br /> using the
              <a href="https://www.fantacss.smoljames.com" target="_blank">FantaCSS</a> design library.
-             <br />Check out the project on <a target="_blank" href="!#">Github</a>!</p>
+             <br />Check out the project on <a target="_blank" href="https://github.com/noam971/myCoffee">Github</a>!</p>
         </footer>
     )
     
